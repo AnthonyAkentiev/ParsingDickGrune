@@ -1,0 +1,50 @@
+\documentclass[10pt,a4paper]{book}
+
+\usepackage[cp1251]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{multirow}
+%\usepackage{graphicx}
+\usepackage{theorem}
+
+\ifx\pdfoutput\undefined
+\usepackage{graphicx}
+\else
+\usepackage[pdftex]{graphics}
+\fi
+
+%for multirow:
+\newcommand{\minitab}[2][l]{\begin{tabular}{#1}#2\end{tabular}}
+\newcommand{\GrT}[1]{{\tt #1}}
+\newcommand{\HSp}{\hspace{0.5in}}
+\newcommand{\DHSp}{\hspace{1.0in}}
+%\renewcommand{\labelitemi}{$\box$}
+\renewcommand{\epsilon}{\varepsilon}
+
+\newcommand{\sss}[1]{\setcounter{secnumdepth}{4} \subsubsection{#1} \setcounter{secnumdepth}{2}}
+
+% theorems:
+%\newtheorem{theorem}{Теорема}d
+\newtheorem{definition}{Определение}
+
+\oddsidemargin=5mm
+\evensidemargin=5mm
+\textwidth=15cm
+
+\title{Разбор текста: Практическое руководство}
+\author{Dick Grune \and Ceriel J.H. Jacobs\thanks{Перевод Антона Акентьева}}
+\begin{document}
+\maketitle
+\tableofcontents
+
+\setcounter{secnumdepth}{-1}
+\include{Preface}												%by AA
+\setcounter{secnumdepth}{2}
+
+\include{Introduction}									%by AA
+\include{GeneratingGrammars}						%by AA
+\include{IntroductionToParsing}					%ch#3
+\include{GeneralNonDirectionalMethods}	%ch#4 by AA
+\include{RegularGrammarsAndFSA}
+\include{TranslationGlossary}
+
+\end{document}

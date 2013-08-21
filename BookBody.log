@@ -1,0 +1,840 @@
+This is e-TeX, Version 3.141592-2.2 (MiKTeX 2.4) (preloaded format=latex 2006.4.10)  26 JUN 2006 00:29
+entering extended mode
+**BookBody.tex
+(BookBody.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8g> and hyphenation patterns for english, dumylang, nohyphenation, german, ngerman, french, russian, loaded.
+(C:\texmf\tex\latex\base\book.cls
+Document Class: book 2004/02/16 v1.4f Standard LaTeX document class
+(C:\texmf\tex\latex\base\bk10.clo
+File: bk10.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (C:\texmf\tex\latex\base\inputenc.sty
+Package: inputenc 2004/02/05 v1.0d Input encoding file
+ (C:\texmf\tex\latex\cyrillic\cp1251.def
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+(C:\texmf\tex\generic\babel\babel.sty
+Package: babel 2005/05/21 v3.8g The Babel package
+ (C:\texmf\tex\generic\babel\russianb.ldf
+Language: russianb 2005/03/29 v1.1r Russian support from the babel system
+ (C:\texmf\tex\generic\babel\babel.def
+File: babel.def 2005/05/21 v3.8g Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+(C:\texmf\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2004/01/26 v1.0g Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 199.
+)) (C:\texmf\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen104
+)
+(C:\texmf\tex\latex\tools\theorem.sty
+Package: theorem 1995/11/23 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks14
+\theorem@bodyfont=\toks15
+\theorempreskipamount=\skip43
+\theorempostskipamount=\skip44
+ (C:\texmf\tex\latex\tools\thp.sty
+File: thp.sty 1995/11/23 v2.2c Theorem extension package (FMi)
+)) (C:\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+) (C:\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+ (C:\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (C:\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2005/12/29 v1.2 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+ (C:\texmf\tex\latex\graphics\dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+\c@definition=\count89
+ (BookBody.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
+
+(C:\texmf\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+) (Preface.aux) (Introduction.aux) (GeneratingGrammars.aux
+
+LaTeX Warning: Label `figcontsens1' multiply defined.
+
+
+LaTeX Warning: Label `fighopderiv' multiply defined.
+
+
+LaTeX Warning: Label `figcs-english1' multiply defined.
+
+
+LaTeX Warning: Label `figlr-cfcs7' multiply defined.
+
+
+LaTeX Warning: Label `fighopderiv4' multiply defined.
+
+
+LaTeX Warning: Label `fighopderiv4' multiply defined.
+
+) (IntroductionToParsing.aux) (GeneralNonDirectionalMethods.aux) (RegularGrammarsAndFSA.aux) (TranslationGlossary.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 36.
+
+[1
+
+
+] [2
+
+] (BookBody.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+ [3])
+\tf@toc=\write3
+ [4] (Preface.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+[5
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 19--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--28
+
+ []
+
+) [6] (Introduction.tex
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+[7
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+) [8] (GeneratingGrammars.tex
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--18
+
+ []
+
+[9
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--26
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 58.
+(C:\texmf\tex\latex\cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (1.05049pt too wide) in paragraph at lines 48--78
+\T2A/cmr/m/n/10 ни-ро-ва-ния букв ал-фа-ви-та. Для ал-фа-ви-та $\OT1/cmr/m/n/10  = \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 a
+; b\OMS/cmsy/m/n/10 g$ \T2A/cmr/m/n/10 по-лу-чим язык $\OMS/cmsy/m/n/10 f \OML/cmm/m/it/10 ; a; b; aa; ab; ba; bb; aaa; 
+[]\OMS/cmsy/m/n/10 g$\T2A/cmr/m/n/10 .
+ []
+
+
+Underfull \vbox (badness 1694) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (4.7977pt too wide) in paragraph at lines 79--80
+\T2A/cmr/m/n/10 как буд-то это би-ты ин-фор-ма-ции. Те-перь мы мо-жем опи-сать язык так: $\OML/cmm/m/it/10 L \OT1/cmr/m/
+n/10 = 0101000111010001 []$\T2A/cmr/m/n/10 ,
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 83--103
+
+ []
+
+File: figs/gener/p22.eps Graphic file (type eps)
+<figs/gener/p22.eps>
+Overfull \hbox (1.43742pt too wide) in paragraph at lines 104--111
+\T2A/cmr/m/n/10 Техника диа-го-на-ли-за-ции бо-лее де-таль-но рас-смат-ри-ва-ет-ся во мно-гих кни-гах, на-при-мер Рейард
+-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+ []
+
+[17]
+File: figs/gener/fig23.eps Graphic file (type eps)
+ <figs/gener/fig23.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 238--247
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+[19]
+File: figs/gener/fig25.eps Graphic file (type eps)
+ <figs/gener/fig25.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--309
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \hbox (badness 10000) in paragraph at lines 312--315
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
+
+ []
+
+
+Overfull \hbox (16.12291pt too wide) in paragraph at lines 334--344
+[][] [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--354
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--367
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+ []
+
+File: figs/gener/fig27.eps Graphic file (type eps)
+<figs/gener/fig27.eps>
+Overfull \hbox (52.37796pt too wide) in paragraph at lines 401--402
+[][]\T2A/cmr/m/n/10 Грамматику пер-во-го ти-па ча-сто на-зы-ва-ют \T2A/cmr/m/it/10 контекстно-зависимой грам-ма-ти-кой \
+T2A/cmr/m/n/10 (CS-грамматикой[]).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+[24]
+File: figs/gener/fig28.eps Graphic file (type eps)
+ <figs/gener/fig28.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 417--424
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 425.
+(C:\texmf\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 425.
+ [25]
+Underfull \hbox (badness 10000) in paragraph at lines 447--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--479
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--524
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 526--527
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 570--572
+
+ []
+
+[29]
+File: figs/gener/fig211.eps Graphic file (type eps)
+ <figs/gener/fig211.eps>
+File: figs/gener/fig212.eps Graphic file (type eps)
+ <figs/gener/fig212.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 622--629
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 634--636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 645--647
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figs/gener/fig214.eps Graphic file (type eps)
+<figs/gener/fig214.eps> [31]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--740
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 744--748
+
+ []
+
+
+Overfull \hbox (38.96648pt too wide) in paragraph at lines 762--765
+\T2A/cmr/m/n/10 Контекстно-зависимые грам-ма-ти-ки []глобально-зависимы\OT1/cmr/m/n/10 \\T2A/cmr/m/n/10 , а КС-грамматик
+и []локально-независимы\OT1/cmr/m/n/10 \\T2A/cmr/m/n/10 .
+ []
+
+[34]
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 771.
+
+Missing character: There is no с in font cmr10!
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 772.
+
+Missing character: There is no с in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--780
+
+ []
+
+[35]
+Overfull \hbox (20.8788pt too wide) in paragraph at lines 796--801
+\T2A/cmr/m/n/10 Мы мо-жем опи-сать язык $\OML/cmm/m/it/10 L$ \T2A/cmr/m/n/10 че-рез КС-грамматику, ес-ли есть воз-мож-но
+сть ис-поль-зо-вать бесконечно-
+ []
+
+
+Overfull \hbox (31.97566pt too wide) in paragraph at lines 803--811
+[][] [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 878--880
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 896--898
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 901--902
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--922
+
+ []
+
+[38]
+Overfull \hbox (76.55315pt too wide) in paragraph at lines 954--981
+[][] [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 998--1000
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 1024--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1028
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1046
+
+ []
+
+[41]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (17.54584pt too wide) in paragraph at lines 1084--1090
+\T2A/cmr/m/n/10 сторонний вы-вод\OT1/cmr/m/n/10 \ \T2A/cmr/m/n/10 бу-дет ча-сто встре-чать-ся в дан-ной кни-ге (об-ра-ти
+-те вни-ма-ние на КВ-грамматику,
+ []
+
+[42]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (1.02086pt too wide) in paragraph at lines 1162--1171
+\T2A/cmr/m/n/10 реть во-прос су-ще-ство-ва-ния иерар-хии немо-но-тон-ных грам-ма-тик по-ми-мо, из-вест-ной нам, иерар-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1162--1171
+
+ []
+
+[44] [45]
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1194
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 1197--1198
+
+ []
+
+[47] [48]
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
+
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1290--1295
+
+ []
+
+[50]) [51] (IntroductionToParsing.tex [52
+
+
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
+) [53] (GeneralNonDirectionalMethods.tex [54
+
+
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+
+ []
+
+
+Underfull \vbox (badness 1803) has occurred while \output is active []
+
+ [55]
+Underfull \hbox (badness 10000) in paragraph at lines 30--50
+
+ []
+
+
+Overfull \hbox (1.02086pt too wide) in paragraph at lines 30--50
+\T2A/cmr/m/n/10 Для даль-ней-ше-го рас-смот-ре-ния при-ме-ром бу-дет слу-жить грам-ма-ти-ка, при-ве-дјн-ная на рис.4.1.
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+[57] [58]
+Underfull \hbox (badness 10000) in paragraph at lines 129--146
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--166
+
+ []
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 167--183
+
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--204
+
+ []
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 267--270
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--298
+
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 299--301
+
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--335
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--412
+
+ []
+
+[67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--432
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 432--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
+
+ []
+
+[70]) [71] (RegularGrammarsAndFSA.tex [72
+
+
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 5.
+
+LaTeX Warning: Reference `TheCFCaseSubsection' on page 73 undefined on input line 24.
+
+[73]
+
+LaTeX Warning: Citation `Dewar' on page 74 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Bratley & Thorne' on page 74 undefined on input line 120.
+
+
+LaTeX Warning: Citation `NatLang 1969' on page 74 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Blank' on page 74 undefined on input line 121.
+
+
+LaTeX Warning: Citation `Natlang 1989' on page 74 undefined on input line 121.
+
+[74]) [75] (TranslationGlossary.tex [76
+
+
+
+]
+{\Russian \CYRG \cyrl \cyra \cyrv \cyra } 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+) [77] (BookBody.aux (Preface.aux) (Introduction.aux) (GeneratingGrammars.aux) (IntroductionToParsing.aux)
+(GeneralNonDirectionalMethods.aux) (RegularGrammarsAndFSA.aux) (TranslationGlossary.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1832 strings out of 95683
+ 20305 string characters out of 1193226
+ 74641 words of memory out of 1066076
+ 4605 multiletter control sequences out of 60000
+ 23043 words of font info for 47 fonts, out of 1000000 for 2000
+ 198 hyphenation exceptions out of 4999
+ 28i,11n,24p,1678b,328s stack positions out of 5000i,500n,10000p,200000b,32768s
+
+Output written on BookBody.dvi (77 pages, 407212 bytes).
